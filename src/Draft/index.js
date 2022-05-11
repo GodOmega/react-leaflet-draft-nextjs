@@ -3,7 +3,6 @@ import React from "react";
 import { useLeafletContext, createControlComponent } from '@react-leaflet/core';
 
 import "leaflet-draw";
-import "leaflet-draw/dist/leaflet.draw.css";
 
 import { createControlDraw } from './factory';
 
